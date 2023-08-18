@@ -1,0 +1,44 @@
+*{
+    width:auto;
+    height: auto;    
+  }
+
+  h2 {
+    text-align: center;
+    color: beige;
+  }
+  
+  
+  #form{
+    background-color: rgb(251, 201, 102);
+ }
+  
+  
+  form {
+    max-width: 50%;
+    margin: 0 auto;
+    background-color: #fffcf8;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  input {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
